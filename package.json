@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "geek-fetch:fetch"
   },
-  "repository": "https://github.com/atom/geek-fetch",
+  "repository": "https://github.com/sam09/geek-fetch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
