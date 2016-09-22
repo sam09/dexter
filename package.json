@@ -1,0 +1,19 @@
+{
+  "name": "geek-fetch",
+  "main": "./lib/geek-fetch",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "geek-fetch:fetch"
+  },
+  "repository": "https://github.com/atom/geek-fetch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "cheerio": "~0.20.0",
+    "google": "~2.0.0"
+  }
+}

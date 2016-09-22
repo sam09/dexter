@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "GeekFetch",
+        "command": "geek-fetch:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "GeekFetch",
+          "submenu": [
+            {
+              "label": "Fetch",
+              "command": "geek-fetch:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
